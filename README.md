@@ -1,6 +1,6 @@
 # Flavour Fusion Hub 🍽️
 
-Welcome to **Flavour Fusion Hub**, a website where you can search for different dish recipes along with their ingredients and detailed instructions. This project is designed to make cooking easier by providing users with access to a vast array of recipes from various cuisines. The website is live and deployed on [Vercel](https://vercel.com).
+Welcome to **Flavour Fusion Hub**, a website where you can search for different dish recipes along with their ingredients and detailed instructions. This project is designed to make cooking easier by providing users with access to a vast array of recipes from various cuisines. The website is live and deployed on Vercel .
 
 ## Features 🚀
 
@@ -11,7 +11,7 @@ Welcome to **Flavour Fusion Hub**, a website where you can search for different 
 
 ## Live Demo 🌐
 
-Check out the live version of the website: [Flavour Fusion Hub](https://your-vercel-url.vercel.app)
+Check out the live version of the website: [Flavour Fusion Hub](https://flavour-fusion-hub.vercel.app/)
 
 ## Tech Stack 🛠️
 
